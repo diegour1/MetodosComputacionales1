@@ -1,6 +1,6 @@
 # Metodos Computacionales 1
 
-Para acceder al entorno virtual oprima el boton de abajo de Binder.
+Para acceder al entorno virtual oprima el siguiente boton de Binder.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diegour1/MetodosComputacionales1/main)
 
