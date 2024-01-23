@@ -1,5 +1,6 @@
 # Metodos Computacionales 1
 
+Para acceder al entorno virtual oprima el boton de abajo de Binder.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diegour1/MetodosComputacionales1/main)
 
 Material del curso de Métodos Computacionales 1 de Uniandes 2024 10
